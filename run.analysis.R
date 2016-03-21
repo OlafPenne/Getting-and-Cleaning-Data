@@ -3,7 +3,7 @@ library(dplyr)
 
 ## Load 8 relevant tables
 
-setwd("C:/Users/olaf.penne/Documents/03 Algemeen/Coursera/Assignment3_5/UCI HAR Dataset")
+## setwd("C:/Users/olaf.penne/Documents/03 Algemeen/Coursera/Assignment3_5/UCI HAR Dataset")
 
 x_test<-read.table("./test/X_test.txt")
 y_test<-read.table("./test/y_test.txt")
